@@ -1,3 +1,6 @@
+
+(OBSERVAÇÃO: GITHUB TEMPORÁRIO, SERÁ TRANSFERIDO PARA O "PRINCIPAL", TIVE UM PROBLEMA DE ACESSO PARA ATUALIZAR OS ARQUIVOS E NÃO DARÁ TEMPO DE RESOLVER ANTES DA ATIVIDADE FECHAR)
+
 # Prática TDD - Projeto de Cadastro de Livros
 
 Este é um projeto de desenvolvimento web que inclui um sistema de cadastro de livros, com ênfase na prática do Desenvolvimento Orientado a Testes (TDD). O projeto foi desenvolvido como parte dos desafios da disciplina "Desenvolvimento Web 3" e "Qualidade e Teste de Software".
